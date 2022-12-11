@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=cryptomail-electron
+Comment=Cryptomail desktop client
+Exec=cryptomail-electron
+Type=Application
+Categories=Network;Chat;InstantMessaging;P2P
